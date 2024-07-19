@@ -11,5 +11,5 @@ content : |
 button:
   label : "Book Now"
   link : "#submit"
-image : "images/banner.jpg"
+image : "images/dining.jpg"
 
