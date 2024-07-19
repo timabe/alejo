@@ -1,0 +1,15 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Palm Springs Condo Rental"
+subtitle: |
+  A midcentury architectural gem in the historic Villa Alejo building, 1 block from downtown Palm Springs. For rentals of 1 month or more. 
+content : |
+  Welcome to your next getaway. This 3rd floor penthouse condo has 1 bedroom with a queen bed. Other sleeping options include 2 single Eames day beds, plus a hidden Pullman car twin bed area off the living room.
+
+  The building features a swimming pool, jacuzzi, and a gym.
+
+button:
+  label : "Book Now"
+  link : "#submit"
+image : "images/banner.jpg"
+

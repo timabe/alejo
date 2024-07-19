@@ -1,0 +1,78 @@
+title: "Photo Tour"
+id: gallery
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  The condo features a living room, dining room, kitchen, bedroom, and bathroom. A patio with a view of the mountains is accessible from the living room. 
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/living_room.jpg"
+    thumb: "images/gallery/thumbs/living_room.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/living_room2.jpg"
+    thumb: "images/gallery/thumbs/living_room2.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/dining.jpg"
+    thumb: "images/gallery/thumbs/dining.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/bedroom.jpg"
+    thumb: "images/gallery/thumbs/bedroom.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/bedroom2.jpg"
+    thumb: "images/gallery/thumbs/bedroom2.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/deer.jpg"
+    thumb: "images/gallery/thumbs/deer.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/bedroom_sofa.jpg"
+    thumb: "images/gallery/thumbs/bedroom_sofa.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/bathroom.jpg"
+    thumb: "images/gallery/thumbs/bathroom.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/kitchen.jpg"
+    thumb: "images/gallery/thumbs/kitchen.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/outdoor_tiles.jpg"
+    thumb: "images/gallery/thumbs/outdoor_tiles.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/11.jpg"
+    thumb: "images/gallery/thumbs/11.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/12.jpg"
+    thumb: "images/gallery/thumbs/12.jpg"
+    button: "Details"
+    

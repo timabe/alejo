@@ -1,0 +1,7 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Your Hosts"
+content: |
+  Something about Pat and Mike.
+image: "images/spotlight03.jpg"
