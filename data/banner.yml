@@ -10,6 +10,6 @@ content : |
 
 button:
   label : "Book Now"
-  link : "#submit"
+  link : "#form"
 image : "images/dining.jpg"
 
