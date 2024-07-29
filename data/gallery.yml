@@ -2,50 +2,36 @@ title: "Photo Tour"
 id: gallery
 style: "style2 medium lightbox onscroll-fade-in"
 content: |
-  The condo features a living room, dining room, kitchen, bedroom, and bathroom. A patio with a view of the mountains is accessible from the living room. 
+  The condo features a living room, dining room, kitchen, bedroom, and bathroom. A patio with gas grill and view of the mountains is accessible from the living room. 
 pictures:
   - title: "Villa Alejo"
     content: "Villa Alejo is a mid-century modern building in the heart of Palm Springs"
-    image: "images/gallery/fulls/villa_hero.png"
-    thumb: "images/gallery/fulls/villa_hero.png"
+    image: "images/gallery/fulls/outdoor_tiles.jpg"
+    thumb: "images/gallery/thumbs/facade_lobby.png"
     button: "Details"
 
-  - title: "Living Room"
+  - title: "Courtyard and Exterior"
+    image: "images/gallery/thumbs/night_pics.png"
+    thumb: "images/gallery/thumbs/night_pics.png"
+    button: "Details"
+
+  - title: "Living Area"
     content: "Main room facing the inner courtyard on one side, with a view of the mountains on the other"
     image: "images/gallery/fulls/living_room2.jpg"
     thumb: "images/gallery/thumbs/living_room.jpg"
     button: "Details"
 
-  - title: "Lobby"
-    image: "images/gallery/fulls/lobby.png"
-    thumb: "images/gallery/fulls/lobby.png"
-
-  - title: "View from above"
-    image: "images/gallery/fulls/birds_eye.png"
-    thumb: "images/gallery/fulls/birds_eye.png"
-
-  - title: "Building at night"
-    content: "The building lit up beautifully on a warm night"
-    image: "images/gallery/fulls/night.jpg"
-    thumb: "images/gallery/fulls/night.jpg"
+  - title: "Dining Area / patio"
+    content: "The Dining area connects to an outdoor patio via sliding doors"
+    image: "images/gallery/thumbs/dining_patio.png"
+    thumb: "images/gallery/thumbs/dining_patio.png"
     button: "Details"
 
-  - title: "Dining Room"
-    content: "The Dining Room connects to the Living Room. There is a outdoor patio directly through the sliding doors"
-    image: "images/gallery/fulls/dining.jpg"
-    thumb: "images/gallery/thumbs/dining.jpg"
-    button: "Details"
-
-  - title: "Dining Area"
+  - title: "Media Area"
     content: "Original dining room sensibly converted into a TV media room with two Eames day beds for media viewing and the option of additional guest sleeping" 
     image: "images/gallery/fulls/tv.jpg"
-    thumb: "images/gallery/fulls/tv.jpg"
+    thumb: "images/gallery/thumbs/media_area.png"
     button: "Details"
-
-  - title: "Patio"
-    content: "Patio with gas grill with the pool and mountains beyond"
-    image: "images/gallery/fulls/patio.jpg"
-    thumb: "images/gallery/thumbs/patio.jpg"
 
   - title: "Hallway"
     content: "Hallway leading to the bedroom and bathroom"
@@ -54,39 +40,21 @@ pictures:
     button: "Details"
 
   - title: "Bedroom"
-    content: "Queen size bed"
-    image: "images/gallery/fulls/bedroom2.jpg"
+    content: "Bedroom with queen size bed. A comfortable work/desk area is also in the room"
+    image: "images/gallery/fulls/bedroom_work.jpg"
     thumb: "images/gallery/fulls/bedroom2.jpg"
     button: "Details"
 
-  - title: "Bedroom"
-    content: "Comfortable work/desk area in the main bedroom"
-    image: "images/gallery/fulls/bedroom_work.jpg"
-    thumb: "images/gallery/fulls/bedroom_work.jpg"
-    button: "Details"
-
   - title: "Bathroom"
-    content: "Leading into the large bathroom"
-    image: "images/gallery/fulls/deer.jpg"
-    thumb: "images/gallery/thumbs/deer.jpg"
-    button: "Details"
-
-  - title: "Bathroom"
-    content: "Updated bathroom with large separate shower area off main bath"
-    image: "images/gallery/fulls/bathroom.jpg"
+    content: "Updated bathroom with large separate shower area off main bath and jungle designs"
+    image: "images/gallery/fulls/bathroom_trio.png"
     thumb: "images/gallery/thumbs/bathroom.jpg"
-    button: "Details"
-
-  - title: "Bathroom"
-    content: "Jungle entertainment in the main bath area"
-    image: "images/gallery/fulls/bathroom2.jpg"
-    thumb: "images/gallery/thumbs/bathroom2.jpg"
     button: "Details"
 
   - title: "Kitchen"
     content: "Updated original kitchen with new Bosch dishwasher, microwave, airfryer, and other standard appliances that pass through to TV lounge"
-    image: "images/gallery/fulls/kitchen.jpg"
     thumb: "images/gallery/fulls/kitchen.jpg"
+    image: "images/gallery/fulls/kitchen2.jpg"
     button: "Details"
 
   - title: "Kitchen view"
@@ -94,17 +62,3 @@ pictures:
     image: "images/gallery/fulls/kitchen_sink.jpg"
     thumb: "images/gallery/fulls/kitchen_sink.jpg"
     button: "Details"
-
-  - title: "Passthru-to-Kitchen"
-    content: "Pass through area between dining area and kitchen"
-    image: "images/gallery/fulls/random.jpg"
-    thumb: "images/gallery/fulls/random.jpg"
-    button: "Details"
-
-  - title: "Entrance"
-    content: "Exterior walkway to entry to our unit, P-9"
-    image: "images/gallery/fulls/living_room2.jpg"
-    thumb: "images/gallery/fulls/outdoor_tiles.jpg"
-    button: "Details"
-
-    

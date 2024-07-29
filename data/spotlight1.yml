@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style3 iphone"
+style: "style3 iphone onscroll-image-fade-up"
 id: "first"
 title : "Steps from downtown Palm Springs"
 content: |
