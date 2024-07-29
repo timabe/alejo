@@ -1,6 +1,6 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Palm Springs Condo Rental"
+title : "Downtown Palm Springs Condo Rental"
 subtitle: |
   A midcentury architectural gem in the historic Villa Alejo building, 1 block from downtown Palm Springs. For rentals of 1 month or more. 
 content : |
@@ -11,5 +11,5 @@ content : |
 button:
   label : "Book Now"
   link : "#form"
-image : "images/dining.jpg"
+image : "images/villa_banner.png"
 
