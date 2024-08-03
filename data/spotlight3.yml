@@ -1,7 +1,12 @@
 ####################### Spotlight #########################
-style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Your Hosts"
+title : "Your Hosts: Patrick and Michael"
 content: |
-  Something about Pat and Mike.
-image: "images/spotlight03.jpg"
+  Patrick is a semi-retired architect. He loves the arts and the desert environment outside of 29 Palms/ Joshua Tree, hiking, camping, cooking, and exploring with his partner Michael.
+  <br><br>
+  Michael is a Fashion Curator and Design Consultant in Hudson, NY. He enjoys the design environment in Palm Springs and its natural surroundings, as well as the desert in nearby Wonder Valley. 
+  <br><br>
+  Chances are one or both of us will be in the desert about an hour away from Villa Alejo during your stay.
+
+image: "images/pm.png"

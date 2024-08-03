@@ -1,7 +1,11 @@
 ####################### Spotlight #########################
-style: "style1 orient-left content-align-center image-position-center onscroll-image-fade-in"
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
 title : "Pricing"
 content: |
-  Something about pricing.
+  The <strong>basic rate</strong> for in-season is $3400 a month/30 days. 
+    <br><br>
+  Additional days, if available, with be prorated at the basic rate / 30.
+  A secuity deposit of $500 is required for each booking and is fully refundable after departure and viewing/verifying the condition of the condo.
+  A cleaning deposit of $200 is required for each booking and fully refundable if the condo is left in the pristine clean condition as when you entered. There is also access to a cleaning person for intermediate cleaning if desired during your stay.
 image: "images/dining.jpg"
