@@ -11,5 +11,5 @@ content : |
 button:
   label : "Book Now"
   link : "#form"
-image : "images/villa_banner.png"
+image : "images/villa_banner.jpg"
 
